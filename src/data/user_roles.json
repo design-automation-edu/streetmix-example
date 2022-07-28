@@ -1,0 +1,73 @@
+{
+  "USER": {
+    "key": "user",
+    "text": "User",
+    "value": "USER",
+    "flags": {
+      "ANALYTICS": true,
+      "SEGMENT_BRT": true,
+      "SEGMENT_CAFE_SEATING": true,
+      "SEGMENT_CONSTRUCTION": true,
+      "SEGMENT_MAGIC_CARPET": true,
+      "SEGMENT_UTILITIES": true,
+      "VARIANT_TWOWAY_BIKES": true
+    }
+  },
+  "ADMIN": {
+    "key": "admin",
+    "text": "Administrator",
+    "value": "ADMIN",
+    "flags": {
+      "LOCALES_LEVEL_1": true
+    }
+  },
+  "BETA_TESTER": {
+    "key": "beta_tester",
+    "text": "Beta tester",
+    "value": "BETA_TESTER",
+    "flags": {
+      "LOCALES_LEVEL_1": true,
+      "VARIANT_TWOWAY_BIKES_UNLOCKED": true,
+      "VARIANT_MIXED_DRIVE_LANES_1": true,
+      "VARIANT_MIXED_DRIVE_LANES_2": true
+    }
+  },
+  "ITDP": {
+    "key": "itdp",
+    "text": "ITDP user",
+    "value": "ITDP",
+    "flags": {
+      "VARIANT_TWOWAY_BIKES_UNLOCKED": true,
+      "VARIANT_MIXED_DRIVE_LANES_2": true,
+      "VARIANT_MIXED_DRIVE_LANES_3": true
+    }
+  },
+  "TRANSLATOR": {
+    "key": "translator",
+    "text": "Translator",
+    "value": "TRANSLATOR",
+    "flags": {
+      "LOCALES_LEVEL_1": true
+    }
+  },
+  "SUBSCRIBER_1": {
+    "key": "subscriber_1",
+    "text": "Subscriber tier 1",
+    "value": "SUBSCRIBER_1",
+    "flags": {
+      "SAVE_AS_IMAGE_CUSTOM_DPI": true
+    }
+  },
+  "SUBSCRIBER_2": {
+    "key": "subscriber_2",
+    "text": "Subscriber tier 2",
+    "value": "SUBSCRIBER_2",
+    "flags": {}
+  },
+  "SUBSCRIBER_3": {
+    "key": "subscriber_3",
+    "text": "Subscriber tier 3",
+    "value": "SUBSCRIBER_3",
+    "flags": {}
+  }
+}
